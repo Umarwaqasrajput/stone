@@ -6,7 +6,7 @@ export default function ContactPage() {
         {/* Left Side Image */}
         <div className="flex justify-center">
           <img
-            src="https://images.unsplash.com/photo-1581090700227-1e37b190418e"
+            src="waqas.jpg"
             alt="Contact Illustration"
             className="rounded-2xl shadow-lg w-full max-w-sm"
           />
